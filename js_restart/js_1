@@ -1,0 +1,10 @@
+
+// let friends=["abhi" , "lavi" , "sunny" , "tummy"]
+// for(let i=0 ; i<friends.length ; i++)
+// {
+//     console.log("hello friend" ,friends[i] )
+// }
+// friends.forEach(function f(element){
+//     console.log(`hello friend` , element , ` welcome to modern javascript`)
+// })
+console.log("hello");
